@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m Beedo — a computer science student and full-stack developer who loves building things that actually work in the real world. My core focus is web development (mainly MERN), but I’m also deeply interested in fintech, blockchain technologies, and applied AI.<br><br>I enjoy exploring how technology can automate decisions, optimize experiences, and solve practical problems — whether through digital platforms, financial tools, or smart data-driven systems. I’ve worked on projects ranging from e-commerce sites to education platforms to experimental app prototypes.<br><br>Always learning, always experimenting, and always open to collaborating on impactful ideas.
+# About Me:
+a computer science student and full-stack developer who loves building things that actually work in the real world. My core focus is web development (mainly MERN), but I’m also deeply interested in fintech, blockchain technologies, and applied AI.<br><br>I enjoy exploring how technology can automate decisions, optimize experiences, and solve practical problems — whether through digital platforms, financial tools, or smart data-driven systems. I’ve worked on projects ranging from e-commerce sites to education platforms to experimental app prototypes.<br><br>Always learning, always experimenting, and always open to collaborating on impactful ideas.
 
 
 ## 🌐 Socials:
